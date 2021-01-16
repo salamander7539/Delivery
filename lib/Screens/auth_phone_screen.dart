@@ -162,7 +162,7 @@ class _AuthPhoneScreenState extends State<AuthPhoneScreen> {
                                 color: Color(0xFFFD6F6D),
                               ),
                             ),
-                            contentPadding: EdgeInsets.only(left: MediaQuery.of(context).size.width * 0.305),
+                            contentPadding: EdgeInsets.only(left: MediaQuery.of(context).size.width * 0.275),
                             hintText: '+7 999 949-94-99',
                             hintStyle: TextStyle(
                               color: Color(0xFFC0BFC6),
